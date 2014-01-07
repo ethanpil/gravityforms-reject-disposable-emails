@@ -544,7 +544,7 @@ function check_email_blacklist ($email) {
 	);
 	
 	$email_split = explode('@', $email); 
-	$email_domain = $email_split[1];
+	$email_domain = strtolower($email_split[1]);
 	
 	if (in_array($email_domain, $blacklist)) 
 	{    
