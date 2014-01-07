@@ -2,8 +2,8 @@
 Contributors: ethanpil
 Tags: gravity forms, gravity, disposable email, validation
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 3.8
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,8 @@ Thanks to adamloving for the initial list: https://gist.github.com/adamloving/44
 There is nothing to see here.
 
 == Changelog ==
+= 1.1 =
+* Fixed email case sensitivity bug. Thanks @jkirker
 
 = 1.0 =
 * Hello World! Goodbye bad email addresses!!
