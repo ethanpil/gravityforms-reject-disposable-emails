@@ -15,6 +15,8 @@ Install this plugin into any WordPress system with a working Gravity Forms plugi
 
 Thanks to adamloving for the initial list: https://gist.github.com/adamloving/4401361
 
+This WordPress plugin is brought to you by [Los Angeles Web Design](https://www.angeleswebdesign.com "Los Angeles Web Design WordPress Experts")
+
 == Installation ==
 
 1. Upload `gravityforms-reject-disposable-emails.php` to the `/wp-content/plugins/` directory
@@ -24,11 +26,11 @@ Thanks to adamloving for the initial list: https://gist.github.com/adamloving/44
 
 = I dont see any settings or options! =
 
-There arent any!
+There aren't any!
 
 = How to I enable it? =
 
-If the plugins system has it on then its working.
+If its enabled on the plugins page of youw WordPress admin, then its working.
 
 = Where did you get the list of domains? =
 
